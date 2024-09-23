@@ -2,7 +2,7 @@ Imports System
 
 'Select Case Control Structure
 
-Module Example5
+Module ExampleFive
     Sub Main()
         Dim dayNumber As Integer
 
